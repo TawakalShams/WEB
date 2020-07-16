@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="bita@localhost" uuid="590440fe-cf67-42d9-aef4-f97dce2583c1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/bita</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="bita@localhost [2]" uuid="9745c07f-b1cb-44d6-9c07-8a851702a07e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/bita</jdbc-url>
+    </data-source>
+  </component>
+</project>
